@@ -1,8 +1,9 @@
-<p align="center">
+<div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ALSN-24;Craftsman" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app?&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ALSN-24;Craftsman" alt="Typing SVG" />
   </a>
-</p>
+</div>
+
 
 ---
 
@@ -42,15 +43,26 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alsn-24&show_icons=true&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alsn-24&show_icons=true&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" 
+       alt="Top Languages" 
+       onerror="this.onerror=null; this.src='https://i.gifer.com/ZZ5H.gif';"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alsn-24&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alsn-24&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" 
+       alt="GitHub Stats" 
+       onerror="this.onerror=null; this.src='https://i.gifer.com/ZZ5H.gif';"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsn-24&theme=black-ice&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsn-24&theme=black-ice&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
+       alt="GitHub Streak" 
+       onerror="this.onerror=null; this.src='https://i.gifer.com/ZZ5H.gif';"/>
 </p>
+
 
 ---
 
