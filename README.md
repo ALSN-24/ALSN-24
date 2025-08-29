@@ -42,22 +42,14 @@
 
 ### 📊 GitHub Stats
 
-<!-- Static Loader Spinner SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/90-ring.svg" width="40" alt="Loading..." />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsn-24&show_icons=true&locale=en)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALSN-24&repo=Bootcamp&cache_seconds=60&show_icons=true&locale=en&layout=compact&v=2)  ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=alsn-24&show_icons=true&locale=en&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alsn-24&show_icons=true&locale=en" alt="GitHub Stats" height="auto"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALSN-24&repo=Bootcamp&cache_seconds=60&show_icons=true&locale=en&layout=compact&v=2" alt="Most Used Languages" height="auto"/>
-  <img src="https://streak-stats.demolab.com/?user=alsn-24" alt="GitHub Streak" height="auto"/>
-</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALSN-24&repo=Bootcamp&cache_seconds=60)
+
+
 
 <!-- Metrics Calendar SVG -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ALSN-24/ALSN-24/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Stats"/>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68a9ff78891a1beee1cc52d9?variant=dark&roadmaps=computer-science%2Ctechnical-writer)](https://roadmap.sh)
