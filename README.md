@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alsn-24&show_icons=true&locale=en" alt="GitHub Stats" height="auto"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alsn-24&show_icons=true&locale=en&layout=compact&v=2" alt="Most Used Languages" height="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALSN-24&repo=Bootcamp&cache_seconds=60&show_icons=true&locale=en&layout=compact&v=2" alt="Most Used Languages" height="auto"/>
   <img src="https://streak-stats.demolab.com/?user=alsn-24" alt="GitHub Streak" height="auto"/>
 </p>
 
