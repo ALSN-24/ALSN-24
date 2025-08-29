@@ -53,6 +53,8 @@
   <img src="https://streak-stats.demolab.com/?user=alsn-24" alt="GitHub Streak" height="auto"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALSN-24&repo=Bootcamp&cache_seconds=60)
+
 <!-- Metrics Calendar SVG -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ALSN-24/ALSN-24/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Stats"/>
