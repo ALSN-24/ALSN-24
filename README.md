@@ -43,7 +43,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alsn-24&show_icons=true&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" 
