@@ -64,7 +64,3 @@
 
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ALSN-24/ALSN-24/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar Stats"/>
-</p>
