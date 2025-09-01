@@ -7,7 +7,7 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 
 <p align="center">
   <!-- Add your social links here -->
   <!-- Example:
