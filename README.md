@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Languages & Tools (Bubble Map Style)
+### 🛠️ Languages & Tools 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"/>
