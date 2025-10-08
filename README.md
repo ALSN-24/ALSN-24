@@ -20,8 +20,6 @@
 ---
 
 ### 🚧 Currently Working On
-- [30 Days of Code – HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)  
-- [C (Basic) Challenges – HackerRank](https://www.hackerrank.com/domains/c?filters%5Bskills%5D%5B%5D=C%20%28Basic%29)  
 - [CS50 Codespace](https://cs50.dev/)  
 
 ---
